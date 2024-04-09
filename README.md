@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evawyy.
-- 👀 I’m interested in math.
+- 👀 I major in math.
 - 🌱 I’m currently learning neovim, math, french.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me : e-mail
